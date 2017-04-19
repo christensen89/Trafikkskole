@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>JorSen Trafikkskole</h1>
-        <p class="lead">Velkommen til Jochri Trafikkskoleskole. Her kan du enkelt se hvordan du ligger ann til Teoriprøven, ved og teste dine kunnskaper.</p>
+        <p class="lead">Velkommen til JorSen Trafikkskoleskole. Her kan du enkelt se hvordan du ligger ann til Teoriprøven, ved og teste dine kunnskaper.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Logg Inn &raquo;</a></p>
     </div>
 
