@@ -27,7 +27,10 @@
     <div class="row">
         <div class="col-md-10">
             <br />
-            <span style="font-weight: normal"><em>Her kommer quizen</em></span><br />
+            <span style="font-weight: normal"><em>Her kommer quizen<br />
+            <br />
+            <br />
+            </em></span><br />
         </div>
     </div>
 
