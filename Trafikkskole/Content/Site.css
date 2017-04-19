@@ -2,6 +2,7 @@
 body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-color: whitesmoke;
 }
 
 /* Wrapping element */
@@ -31,6 +32,7 @@ input[type="select"] {
 @media screen and (min-width: 768px) {
     .jumbotron {
         margin-top: 20px;
+        background-color: rgb(230, 204, 109);
     }
     .body-content {
         padding: 0;
